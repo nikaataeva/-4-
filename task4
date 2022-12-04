@@ -1,0 +1,2 @@
+print("mercury","venus", sep="*", end="!")
+print("mars", "jupiter", sep="**", end="?")
